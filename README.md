@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I am Deepak 👋
 
-<!--
-**deepaksy/deepaksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://deepaksy.github.io/images/Developer.gif" alt="Developer" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my portfolio project base on Reactjs 
+- 🌱 I’m currently learning Nodejs.
+- 👯 I’m looking for team members with whom i can collaborate to start awesome project and learn lot of stuff from them!
+- 🤔 I’m looking for help in finding internship opportunities
+- 💬 Ask me about anything you want to know
+- 📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/-deepaksuryawanshiofficial@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksuryawanshiofficial@gmail.com)](mailto:deepaksuryawanshiofficial@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: My code is shit.
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksy&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksy&hide=html&layout=compact)](https://github.com/pixan198/github-readme-stats)
