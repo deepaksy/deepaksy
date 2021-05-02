@@ -1,6 +1,6 @@
 # Hi, I am Deepak 👋
 
-<img src="https://deepaksy.github.io/images/Developer.gif" alt="Developer" />
+<img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="Coder" />
 
 - 🔭 I’m currently working on my portfolio project base on Reactjs 
 - 🌱 I’m currently learning Nodejs.
