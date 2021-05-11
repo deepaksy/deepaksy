@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my portfolio project base on Reactjs. 
 - 🌱 I’m currently learning Nodejs.
-- 🔨 I'm currently Making Markdown for C programming. [:earth_asia:](https://deepaksy.github.io/C)
+- 🔨 I'm currently Making Markdown for C programming.Check here: [:earth_asia:](https://deepaksy.github.io/C)
 - 👯 I’m looking for team members with whom i can collaborate to start awesome project and learn lot of stuff from them!
 - 🤔 I’m looking for help in finding internship opportunities
 - 💬 Ask me about anything you want to know
