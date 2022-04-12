@@ -1,6 +1,6 @@
 # Hi, I am Deepak 👋
 
-<img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" alt="Coder" />
+<img src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="Coder" />
 
 - 🔭 I’m currently working on New skills. 
 - 🌱 I’m currently learning Javascript.
