@@ -2,16 +2,13 @@
 
 <img src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="Coder" />
 
-- 🔭 I’m currently working on New skills. 
-- 🌱 I’m currently learning go.
-- 🔨 I'm currently making a Portfolio Project in React.
 - 👯 I’m looking for team members with whom i can collaborate to start awesome project and learn lot of stuff from them!
 - 🤔 I’m looking for help in finding internship, freelance opportunities
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-deepaksuryawanshiofficial@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksuryawanshiofficial@gmail.com)](mailto:deepaksuryawanshiofficial@gmail.com)
 
-- ⚡ Fun fact: My code is shit.
+
 # Links
 - Markdown for C programming.Check here: [:earth_asia:](https://deepaksy.github.io/C)
 # Stats
